@@ -1,0 +1,19 @@
+current directory: /Users/akiratsuruoka/bajji/mokumoku/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+/Users/akiratsuruoka/.rbenv/versions/2.6.2/bin/ruby -I /Users/akiratsuruoka/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20200205-29637-l4ukrn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/akiratsuruoka/bajji/mokumoku/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/akiratsuruoka/bajji/mokumoku/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/akiratsuruoka/bajji/mokumoku/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200205-29637-ber0r0/byebug
